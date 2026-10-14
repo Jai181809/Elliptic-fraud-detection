@@ -1,0 +1,18 @@
+#Virtueal Environmnet
+.venv/
+__pycache__/
+*.pyc  
+
+#datas
+*.csv
+*.pt
+*.pth
+*.pkl
+*.txt
+
+
+#ide
+
+.vscode/
+.idea/
+.DS_Store

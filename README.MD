@@ -1,0 +1,1 @@
+This is a project for training a machine to learn abt bitcoin transaction details and detect fraud
